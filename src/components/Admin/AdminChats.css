@@ -1,0 +1,66 @@
+/* AdminChats.css */
+
+.admin-page-chats-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(5, 13, 21, 0.98);
+}
+
+.admin-chats-container {
+    max-width: 800px;
+    width: 80%; /* Adjusted width */
+    height: 75%; /* Adjusted height */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px; /* Added border radius */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Added box shadow */
+    overflow-y: scroll;
+}
+
+.message-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.message-item {
+    padding: 20px; 
+    margin-bottom: 20px; 
+    cursor: pointer;
+    width: 95%;
+    /* background-color: #f0f0f0; */
+    background-color: #111827;
+    border-radius: 10px;
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+}
+
+.message-item:hover {
+   opacity: 0.91;
+}
+
+.message-item p {
+    margin: 0; /* Remove default paragraph margin */
+    font-size: 16px; /* Adjust font size */
+}
+
+.message-item p:last-child {
+    color: #666; /* Adjust color of timestamp */
+    font-size: 14px; /* Adjust font size */
+}
+.user-id{
+    background-color: #cd9922c8;
+    padding: 0.3rem 0.8rem ;
+    border-radius: 15px;
+   
+}
+@media (max-width: 550px) {
+    .admin-chats-container {
+        
+        width: 100%;
+    
+       
+    }
+}

@@ -1,0 +1,132 @@
+/* General Page Styles */
+/*.single-chat-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(5, 13, 21, 0.98);
+    position: relative;
+}
+
+.admin-chats-single-container {
+    max-width: 800px;
+    width: 75%;
+    height: 75%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    overflow-y: scroll;
+}
+
+.message-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.message-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 70%;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.message-content {
+    margin: 0;
+    font-size: 16px;
+}
+
+.message-time {
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+}
+
+.reply-container {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    bottom: 0rem;
+}
+
+.message-input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.send-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.send-button:hover {
+    background-color: #0056b3;
+}
+
+.chat-image-container {
+    width: 100%;
+}
+
+.chat-image-container img {
+    width: 90%;
+}*/
+
+/* Making responsive 
+@media (max-width: 550px) {
+    .message-box {
+        width: 85%;
+    }
+
+    .admin-chats-single-container {
+        width: 100%;
+        height: 75%;
+    }
+
+    .chat-image-container {
+        width: 100%;
+    }
+
+    .chat-image-container img {
+        width: 90%;
+    }
+
+    .message-input {
+        width: 150px;
+    }
+
+    .file-input {
+        width: 100px;
+        overflow: hidden;
+    }
+
+    .send-button {
+        padding: 3px 20px;
+    }
+}
+
+.user-message {
+    background-color: #00444d;
+    color: #f9f9f9;
+}
+
+.admin-message {
+    background-color: #393636;
+    color: #ffffff;
+}*/

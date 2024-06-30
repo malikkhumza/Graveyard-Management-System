@@ -1,0 +1,12 @@
+{
+    "4": {
+        "name": "Standard",
+        "monthly-price": 12,
+        "yearly-price": 120
+    },
+    "5": {
+        "name": "Premium",
+        "monthly-price": 20,
+        "yearly-price": 200
+    }
+}
