@@ -28,7 +28,7 @@ To set up the Grave Management System locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-  cd grave-management-system
+   cd grave-management-system
 
 4. Install dependencies:
    ```bash
@@ -42,5 +42,12 @@ To set up the Grave Management System locally, follow these steps:
 After setting up the project, you can access the application via your web browser. The online platform will allow you to manage grave requests and subscriptions efficiently.
 
 ##Screenshots
+
+![Screenshot (84)](https://github.com/user-attachments/assets/b8cd55f8-f6a3-41ad-a44b-3700adf59fe0)
+*Home Page
+
+![Screenshot (85)](https://github.com/user-attachments/assets/8fe2367d-ca8c-4378-a7df-d026f83a8f80)
+**About Us
+
 
 
