@@ -80,7 +80,7 @@ After setting up the project, you can access the application via your web browse
 **SignUp**
 ![Screenshot (56)](https://github.com/user-attachments/assets/1818196b-8b74-481a-a278-26dad9d7186d)
 
-**Login**
+**Sign-in**
 ![Screenshot (57)](https://github.com/user-attachments/assets/1d4b0942-08d3-4303-a77e-5a2adbe28f0c)
 
 **User Account** 
@@ -92,8 +92,5 @@ After setting up the project, you can access the application via your web browse
 **Chat**
 ![Screenshot (97)](https://github.com/user-attachments/assets/f14e25ec-2738-4807-9b32-53c23abfd314)
 
-![Screenshot (98)](https://github.com/user-attachments/assets/825c0d7f-85f4-4708-b273-7e249f6e0244)
-
-![Screenshot (90)](https://github.com/user-attachments/assets/190711a9-73c9-4260-9c94-6d3808106300)
 
 
