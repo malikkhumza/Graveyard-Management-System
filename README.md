@@ -18,7 +18,7 @@ The Grave Management System is a comprehensive software solution designed to str
 - **Backend**:  Node.js
 - **Database**: MongoDB 
 - **Authentication**: JWT
-- 
+  
 ## Installation
 To set up the Grave Management System locally, follow these steps:
 
@@ -54,38 +54,42 @@ After setting up the project, you can access the application via your web browse
 **Restorations**
 ![Screenshot (86)](https://github.com/user-attachments/assets/44b4ebb5-6c74-4db1-9010-d73097f02d1f)
 
-**Contact Us**
 ![Screenshot (87)](https://github.com/user-attachments/assets/4e911f7b-548f-409e-8f85-6d747184d163)
 
-**Services**
+**Contact Us**
 ![Screenshot (88)](https://github.com/user-attachments/assets/5fa27295-5c2c-4314-9717-89c62e201dac)
 
-**One Time Services**
+**Services**
 ![Screenshot (89)](https://github.com/user-attachments/assets/cb4eab69-319c-4048-8e5c-dbf89f4029e5)
 
-**Monthly Subscription Services**
+**One Time Services** 
 ![Screenshot (90)](https://github.com/user-attachments/assets/190711a9-73c9-4260-9c94-6d3808106300)
 
-**Pricing**
+**Monthly Subscription Services** 
 ![Screenshot (91)](https://github.com/user-attachments/assets/02ba0b7e-fbb0-4ef5-aa22-7226a5e4da0d)
 
-**Plans**
+**Pricing**  
 ![Screenshot (92)](https://github.com/user-attachments/assets/75013422-24f5-4843-b023-a05341a9beb9)
 
-**Service Areas**
+**Plans**
 ![Screenshot (93)](https://github.com/user-attachments/assets/5c7e701e-cb08-48f4-9e02-70e2ff21358f)
 
-**User Account**
+**Service Areas** 
 ![Screenshot (94)](https://github.com/user-attachments/assets/a9c515af-c71b-4486-918e-28d165f2b3c7)
 
-![Screenshot (95)](https://github.com/user-attachments/assets/42e52009-2a1a-41f2-8289-66bb42ea3325)
-
+**SignUp**
 ![Screenshot (56)](https://github.com/user-attachments/assets/1818196b-8b74-481a-a278-26dad9d7186d)
 
+**Login**
 ![Screenshot (57)](https://github.com/user-attachments/assets/1d4b0942-08d3-4303-a77e-5a2adbe28f0c)
 
+**User Account** 
+![Screenshot (95)](https://github.com/user-attachments/assets/42e52009-2a1a-41f2-8289-66bb42ea3325)
+
+**User Subscriptions**
 ![Screenshot (96)](https://github.com/user-attachments/assets/56f0de47-2d43-4a73-b01a-403ba32b8ab5)
 
+**Chat**
 ![Screenshot (97)](https://github.com/user-attachments/assets/f14e25ec-2738-4807-9b32-53c23abfd314)
 
 ![Screenshot (98)](https://github.com/user-attachments/assets/825c0d7f-85f4-4708-b273-7e249f6e0244)
