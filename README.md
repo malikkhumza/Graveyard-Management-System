@@ -57,9 +57,7 @@ After setting up the project, you can access the application via your web browse
 
 ![Screenshot (89)](https://github.com/user-attachments/assets/cb4eab69-319c-4048-8e5c-dbf89f4029e5)
 
-![Screenshot (56)](https://github.com/user-attachments/assets/1818196b-8b74-481a-a278-26dad9d7186d)
-
-![Screenshot (57)](https://github.com/user-attachments/assets/1d4b0942-08d3-4303-a77e-5a2adbe28f0c)
+![Screenshot (90)](https://github.com/user-attachments/assets/190711a9-73c9-4260-9c94-6d3808106300)
 
 ![Screenshot (91)](https://github.com/user-attachments/assets/02ba0b7e-fbb0-4ef5-aa22-7226a5e4da0d)
 
@@ -71,13 +69,15 @@ After setting up the project, you can access the application via your web browse
 
 ![Screenshot (95)](https://github.com/user-attachments/assets/42e52009-2a1a-41f2-8289-66bb42ea3325)
 
+![Screenshot (56)](https://github.com/user-attachments/assets/1818196b-8b74-481a-a278-26dad9d7186d)
+
+![Screenshot (57)](https://github.com/user-attachments/assets/1d4b0942-08d3-4303-a77e-5a2adbe28f0c)
+
 ![Screenshot (96)](https://github.com/user-attachments/assets/56f0de47-2d43-4a73-b01a-403ba32b8ab5)
 
 ![Screenshot (97)](https://github.com/user-attachments/assets/f14e25ec-2738-4807-9b32-53c23abfd314)
 
 ![Screenshot (98)](https://github.com/user-attachments/assets/825c0d7f-85f4-4708-b273-7e249f6e0244)
-
-![Screenshot (99)](https://github.com/user-attachments/assets/a1fc83c1-0778-4124-b46a-c11c87b6c49a)
 
 ![Screenshot (90)](https://github.com/user-attachments/assets/190711a9-73c9-4260-9c94-6d3808106300)
 
