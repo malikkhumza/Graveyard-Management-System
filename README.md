@@ -41,13 +41,23 @@ To set up the Grave Management System locally, follow these steps:
 ## USAGE
 After setting up the project, you can access the application via your web browser. The online platform will allow you to manage grave requests and subscriptions efficiently.
 
-##Screenshots
 
-![Screenshot (84)](https://github.com/user-attachments/assets/b8cd55f8-f6a3-41ad-a44b-3700adf59fe0)
-*Home Page
 
-![Screenshot (85)](https://github.com/user-attachments/assets/8fe2367d-ca8c-4378-a7df-d026f83a8f80)
-**About Us
+## Screenshots
+
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/b8cd55f8-f6a3-41ad-a44b-3700adf59fe0" alt="Home Page" width="400"/>
+    <p style="text-align: center;">*Home Page*</p>
+  </div>
+
+  <div style="margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/8fe2367d-ca8c-4378-a7df-d026f83a8f80" alt="About Us" width="400"/>
+    <p style="text-align: center;">*About Us*</p>
+  </div>
+
+</div>
 
 
 
