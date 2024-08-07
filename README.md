@@ -45,19 +45,19 @@ After setting up the project, you can access the application via your web browse
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-around;">
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b8cd55f8-f6a3-41ad-a44b-3700adf59fe0" alt="Home Page" width="400"/>
+      <p style="text-align: center;">*Home Page*</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/8fe2367d-ca8c-4378-a7df-d026f83a8f80" alt="About Us" width="400"/>
+      <p style="text-align: center;">*About Us*</p>
+    </td>
+  </tr>
+</table>
 
-  <div style="margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/b8cd55f8-f6a3-41ad-a44b-3700adf59fe0" alt="Home Page" width="400"/>
-    <p style="text-align: center;">*Home Page*</p>
-  </div>
-
-  <div style="margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/8fe2367d-ca8c-4378-a7df-d026f83a8f80" alt="About Us" width="400"/>
-    <p style="text-align: center;">*About Us*</p>
-  </div>
-
-</div>
 
 
 
