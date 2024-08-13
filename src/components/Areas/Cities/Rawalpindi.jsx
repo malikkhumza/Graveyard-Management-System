@@ -5,7 +5,7 @@ function Rawalpindi() {
     <div className='bg-gray-900 flex py-44 px-10'>
        <div className=' flex border-2 border-gray-100  bg-[#050d15] w-screen p-5'> 
         <div className=''>
-            <img src="/public/img/10.jpg" alt="" className=' h-full w-80 hidden md:block' />
+            <img src="/static/img/10.jpg" alt="" className=' h-full w-80 hidden md:block' />
         </div>
 
         <div className='text-white  font-KeplerStd px-10'>

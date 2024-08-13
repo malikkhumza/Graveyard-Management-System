@@ -33,7 +33,7 @@ function Home() {
     <div className=" w-full ">
       <div className="h-screen ">
 
-        <div className=" w-full    h-full bg-[url('/img/6.jpg')]  flex bg-fixed bg-center justify-center items-center bg-cover bg-no-repeat bg-[#050d15]  ">
+        <div className=" w-full    h-full bg-[url('/static/img/6.jpg')]  flex bg-fixed bg-center justify-center items-center bg-cover bg-no-repeat bg-[#050d15]  ">
           <div className="">
             <div className="justify-center  flex mb-5 items-center">
               <p className="px-10 mt-24 font-Sans  text-[#D5A021]  text-[15px] ">
@@ -96,7 +96,7 @@ function Home() {
       
       {/* gravestones */}
       <div className="h-screen ">
-        <div className="w-full h-screen bg-[url('/img/img00.jpeg')]  flex bg-fixed bg-center justify-center items-center bg-cover bg-no-repeat bg-[#050d15]  ">
+        <div className="w-full h-screen bg-[url('/static/img/img00.jpeg')]  flex bg-fixed bg-center justify-center items-center bg-cover bg-no-repeat bg-[#050d15]  ">
           <div className="">
             
             <div className="justify-center items-center px-10 md:ml-6 px">
@@ -118,7 +118,7 @@ function Home() {
       {/* restorations */}
 
       <div className="h-screen ">
-        <div className=" w-full h-screen bg-[url('/img/img002.jpeg')]  flex bg-fixed bg-center justify-center items-center bg-cover bg-no-repeat bg-[#050d15]  ">
+        <div className=" w-full h-screen bg-[url('/static/img/img002.jpeg')]  flex bg-fixed bg-center justify-center items-center bg-cover bg-no-repeat bg-[#050d15]  ">
           <div className="">
            
             <div className="justify-center items-center flex px-10 md:ml-6 px">

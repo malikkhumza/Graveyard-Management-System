@@ -29,7 +29,7 @@ import UserDashboard from "./components/UserDash/UserDashboard.jsx";
 import Standard from "./components/Plans/Standard.jsx";
 import Premium from "./components/Plans/Premium.jsx";
 import Stnmonth from "./components/Plans/Stnmonth.jsx";
-import Stnyear from "./components/Plans/Stnyear.jsx";
+// import Stnyear from "./components/Plans/Stnyear.jsx";
 import Checkout from "./components/checkout/Checkout.jsx";
 import Login from "./components/Login.jsx";
 import Signup from "./components/Signup.jsx";
@@ -72,7 +72,7 @@ const router = createBrowserRouter(
       <Route path="standard" element={<Standard />} />
       <Route path="premium" element={<Premium />} />
       <Route path="stnmonth" element={<Stnmonth />} />
-      <Route path="stnyear" element={<Stnyear />} />
+      {/* <Route path="stnyear" element={<Stnyear />} /> */}
       <Route path="checkout" element={<Checkout />} />
       <Route path="login" element={<Login />} />
       <Route path="signup" element={<Signup />} />
