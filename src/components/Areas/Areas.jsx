@@ -8,7 +8,7 @@ function Areas() {
         <NavLink
         to='/lahore'
         className="">
-          <div className="group-hover:scale-110 w-full h-80   bg-[url('/img/7.jpg')] bg-cover bg-center duration-500"></div>
+          <div className="group-hover:scale-110 w-full h-80   bg-[url('/static/img/7.jpg')] bg-cover bg-center duration-500"></div>
           <div className="absolute w-56 left-0 p-5 -bottom-16 duration-500 group-hover:-translate-y-12">
             <div className="absolute -z-10 left-0 w-64 h-28 opacity-0 duration-500 group-hover:opacity-50 group-hover:bg-blue-900"></div>
             <span className="text-xl font-bold">LAHORE</span>
@@ -23,7 +23,7 @@ function Areas() {
         <NavLink
         to='/islamabad'
         className="">
-          <div className="group-hover:scale-110 w-full h-80   bg-[url('/img/5.jpg')] bg-cover bg-center duration-500"></div>
+          <div className="group-hover:scale-110 w-full h-80   bg-[url('/static/img/5.jpg')] bg-cover bg-center duration-500"></div>
           <div className="absolute w-56 left-0 p-5 -bottom-16 duration-500 group-hover:-translate-y-12">
             <div className="absolute -z-10 left-0 w-64 h-28 opacity-0 duration-500 group-hover:opacity-50 group-hover:bg-blue-900"></div>
             <span className="text-xl font-bold">ISLAMABAD</span>
@@ -37,7 +37,7 @@ Providing services in the major graveyards. ALmost covering the entire city.    
         <NavLink
         to='/karachi'
         className="">
-          <div className="group-hover:scale-110 w-full h-80   bg-[url('/img/8.jpg')] bg-cover bg-center duration-500"></div>
+          <div className="group-hover:scale-110 w-full h-80   bg-[url('/static/img/8.jpg')] bg-cover bg-center duration-500"></div>
           <div className="absolute w-56 left-0 p-5 -bottom-16 duration-500 group-hover:-translate-y-12">
             <div className="absolute -z-10 left-0 w-64 h-28 opacity-0 duration-500 group-hover:opacity-50 group-hover:bg-blue-900"></div>
             <span className="text-xl font-bold">Karachi</span>
@@ -51,7 +51,7 @@ Providing services in 10+ biggest graveyards of the city. ALmost covering greate
         <NavLink
         to='/peshawar'
         className="">
-          <div className="group-hover:scale-110 w-full h-80   bg-[url('/img/9.jpg')] bg-cover bg-center duration-500"></div>
+          <div className="group-hover:scale-110 w-full h-80   bg-[url('/static/img/9.jpg')] bg-cover bg-center duration-500"></div>
           <div className="absolute w-56 left-0 p-5 -bottom-16 duration-500 group-hover:-translate-y-12">
             <div className="absolute -z-10 left-0 w-64 h-28 opacity-0 duration-500 group-hover:opacity-50 group-hover:bg-blue-900"></div>
             <span className="text-xl font-bold">Peshawar</span>
@@ -65,7 +65,7 @@ Providing services in 10 of the major graveyards of the city. Covering the entir
         <NavLink
         to='/rawalpindi'
         className="">
-          <div className="group-hover:scale-110 w-full h-80   bg-[url('/img/10.jpg')] bg-cover  duration-500"></div>
+          <div className="group-hover:scale-110 w-full h-80   bg-[url('/static/img/10.jpg')] bg-cover  duration-500"></div>
           <div className="absolute w-56 left-0 p-5 -bottom-16 duration-500 group-hover:-translate-y-12">
             <div className="absolute -z-10 left-0 w-64 h-28 opacity-0 duration-500 group-hover:opacity-50 group-hover:bg-blue-900"></div>
             <span className="text-xl font-bold">RAWALPINDI</span>
@@ -79,7 +79,7 @@ Providing services in the major graveyards. ALmost covering the entire city.    
         <NavLink
         to='/multan'
         className="">
-          <div className="group-hover:scale-110 w-full h-80   bg-[url('/img/11.jpg')] bg-cover  duration-500"></div>
+          <div className="group-hover:scale-110 w-full h-80   bg-[url('/static/img/11.jpg')] bg-cover  duration-500"></div>
           <div className="absolute w-56 left-0 p-5 -bottom-16 duration-500 group-hover:-translate-y-12">
             <div className="absolute -z-10 left-0 w-64 h-28 opacity-0 duration-500 group-hover:opacity-50 group-hover:bg-blue-900"></div>
             <span className="text-xl font-bold">MULTAN</span>
