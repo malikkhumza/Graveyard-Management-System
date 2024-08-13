@@ -29,7 +29,7 @@ function Premium() {
         {/* 1st one */}
         <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mt-10">
           <NavLink to='/stnmonth'>
-            <img className="rounded-t-lg" src="/public/img/img53.jpg" alt="" />
+            <img className="rounded-t-lg" src="/static/img/img53.jpg" alt="" />
           </NavLink>
           <div className="p-5">
             <NavLink to="/stnmonth">
@@ -74,7 +74,7 @@ function Premium() {
         {/* 2nd one */}
         <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mt-10">
           <NavLink to='/stnyear'>
-            <img className="rounded-t-lg" src="/public/img/img53.jpg" alt="" />
+            <img className="rounded-t-lg" src="/static/img/img53.jpg" alt="" />
           </NavLink>
           <div className="p-5">
             <NavLink to='/stnyear'>

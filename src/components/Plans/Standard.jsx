@@ -20,7 +20,7 @@ function Standard() {
           >
             <img
               className="rounded-t-lg"
-              src="/public/img/img521.jpg"
+              src="/static/img/img521.jpg"
               alt=""
             />
           </>
@@ -74,7 +74,7 @@ function Standard() {
           >
             <img
               className="rounded-t-lg"
-              src="/public/img/img521.jpg"
+              src="/static/img/img521.jpg"
               alt=""
             />
           </>

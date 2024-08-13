@@ -15,7 +15,7 @@ function Stnmonth() {
 
         <div className='md:flex bg-[#050d15] mt-5'>
             <div className='md:marker:w-max px-10 py-10'>
-                <img src="/public/img/img521.jpg" alt="" />
+                <img src="/static/img/img521.jpg" alt="" />
             </div>
             <div>
                 <h1

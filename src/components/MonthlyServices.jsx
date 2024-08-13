@@ -22,7 +22,7 @@ function MonthlyServices() {
         <div className="w-72 rounded-xl bg-white shadow-md   duration-300    hover:shadow-xl">
           <p>
             <img
-              src="/public/img/img52.jpg"
+              src="/static/img/img52.jpg"
               alt="Product"
               className="h-80 w-72 rounded-t-xl object-cover"
             />
@@ -47,7 +47,7 @@ function MonthlyServices() {
         <div className="w-72 rounded-xl bg-white shadow-md   duration-300  hover:shadow-xl">
           <p>
             <img
-              src="/public/img/img10.jpg"
+              src="/static/img/img10.jpg"
               alt="Product"
               className="h-80 w-72 rounded-t-xl object-cover"
             />
@@ -73,7 +73,7 @@ function MonthlyServices() {
         <div className="w-72 rounded-xl bg-white shadow-md   duration-300  hover:shadow-xl">
           <p>
             <img
-              src="/public/img/img11.jpg"
+              src="/static/img/img11.jpg"
               alt="Product"
               className="h-80 w-72 rounded-t-xl object-cover"
             />
@@ -100,7 +100,7 @@ function MonthlyServices() {
         {/* <div className="w-72 rounded-xl bg-white shadow-md duration-500  hover:shadow-xl">
           <a href="#">
             <img
-              src="/public/img/img9.jpg"
+              src="/static/img/img9.jpg"
               alt="Product"
               className="h-80 w-72 rounded-t-xl object-cover"
             />

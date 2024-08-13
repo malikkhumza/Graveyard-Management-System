@@ -24,7 +24,7 @@ function OneTervices() {
         <div class="w-72 rounded-xl bg-white shadow-md hover:shadow-xl hover:scale-105 duration-300">
           <div>
             <img
-            src="/public/img/img9.jpg"
+            src="/static/img/img9.jpg"
             alt="Product"
               class="h-80 w-72 rounded-t-xl object-cover"
             />
@@ -72,7 +72,7 @@ function OneTervices() {
         <div class="w-72 rounded-xl bg-white shadow-md  hover:shadow-xl hover:scale-105 duration-300">
           <div>
             <img
-            src="/public/img/img62.jpg"
+            src="/static/img/img62.jpg"
             alt="Product"
               class="h-80 w-72 rounded-t-xl object-cover"
             />
@@ -120,7 +120,7 @@ function OneTervices() {
         <div class="w-72 rounded-xl bg-white shadow-md hover:scale-105 duration-300  hover:shadow-xl">
           <div>
             <img
-            src="/public/img/img72.jpg"
+            src="/static/img/img72.jpg"
             alt="Product"
               class="h-80 w-72 rounded-t-xl object-cover"
             />

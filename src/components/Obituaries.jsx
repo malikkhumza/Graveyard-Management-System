@@ -12,7 +12,7 @@ function Obituaries() {
 
         <div className="max-w-sm mb-6 border border-gray-200  shadow bg-white">
         <a href="#">
-          <img className="" src="/public/img/1.png" alt="" />
+          <img className="" src="/static/img/1.png" alt="" />
         </a>
         <div className="p-5">
           <a href="#">
@@ -28,7 +28,7 @@ function Obituaries() {
 
       <div className="max-w-sm mb-6 border border-gray-200  shadow bg-white">
         <a href="#">
-          <img className="" src="/public/img/2.jpg" alt="" />
+          <img className="" src="/static/img/2.jpg" alt="" />
         </a>
         <div className="p-5">
           <a href="#">
@@ -44,7 +44,7 @@ function Obituaries() {
 
       <div className="max-w-sm mb-6 border border-gray-200  shadow bg-white">
         <a href="#">
-          <img className="" src="/public/img/3.png" alt="" />
+          <img className="" src="/static/img/3.png" alt="" />
         </a>
         <div className="p-5">
           <a href="#">

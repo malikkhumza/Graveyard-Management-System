@@ -18,7 +18,7 @@ function Servicesland() {
       <div className=" flex md:justify-evenly md:mt-6  flex-wrap justify-center">
       {/* <div className="max-w-sm mb-6 border border-gray-200  shadow bg-white">
         <a href="#">
-          <img className="" src="/public/img/img5.jpg" alt="" />
+          <img className="" src="/static/img/img5.jpg" alt="" />
         </a>
         <div className="p-5">
           <a href="#">
@@ -33,7 +33,7 @@ function Servicesland() {
       {/* </div> */}
       <div className=" max-w-sm mb-6 border border-gray-200   shadow bg-white hover:scale-105 duration-300 rounded-xl">
         <NavLink to="/onetime">
-          <img className="w-full rounded-xl" src="/public/img/img6.jpg" alt="" />
+          <img className="w-full rounded-xl" src="/static/img/img6.jpg" alt="" />
         </NavLink>
         <div className="p-5 ">
           <NavLink to="/onetime">
@@ -48,7 +48,7 @@ function Servicesland() {
       </div>
       <div className=" max-w-sm mb-6  border border-gray-200  shadow bg-white hover:scale-105 duration-300 rounded-xl">
         <NavLink to="/monthly">
-          <img className="rounded-xl" src="/public/img/img7.jpg" alt="" />
+          <img className="rounded-xl" src="/static/img/img7.jpg" alt="" />
         </NavLink>
         <div className="p-5">
           <NavLink to="/monthly">

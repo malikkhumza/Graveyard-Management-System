@@ -63,7 +63,7 @@ function Home() {
       <div className="md:h-max flex bg-[#050d15]  w-full ">
         <img
           className="lg:ml-auto lg:items-center  lg:h-[530px] lg:w-[600px] hidden lg:block lg:p-10 lg:mt-[60px] lg:rounded "
-          src="/public/img/img2.jpeg"
+          src="/static/img/img2.jpeg"
           alt=""
           srcset=""
         />
@@ -80,7 +80,7 @@ function Home() {
           <div className="  pt-10 pb-20 flex items-center ">
             <img
               className="h-20 rounded-full w-20 "
-              src="/public/img/img4.png"
+              src="/static/img/img4.png"
               alt=""
               srcset=""
             />
@@ -153,7 +153,7 @@ function Home() {
 
         <div className="p-8 flex flex-wrap justify-around ">
           <div class="max-w-sm mb-6 border border-gray-200  shadow bg-white ">
-            <img class="" src="/public/img/1.png" alt="" />
+            <img class="" src="/static/img/1.png" alt="" />
             <div class="p-4">
               <h5 class="mb-2 flex  font-KeplerStd justify-center text-2xl font-bold tracking-tight text-gray-900">
                 Roma Dee
@@ -165,7 +165,7 @@ function Home() {
           </div>
 
           <div class="max-w-sm mb-6 border border-gray-200  shadow bg-white">
-            <img class="" src="/public/img/2.jpg" alt="" />
+            <img class="" src="/static/img/2.jpg" alt="" />
 
             <div class="p-4">
               <h5 class="mb-2  font-KeplerStd flex justify-center text-2xl font-bold tracking-tight text-gray-900">
@@ -179,7 +179,7 @@ function Home() {
           </div>
 
           <div class="max-w-sm mb-6 border border-gray-200  shadow bg-white">
-            <img class="" src="/public/img/3.png" alt="" />
+            <img class="" src="/static/img/3.png" alt="" />
             <div class="p-4"
             ref={scrollRef}>
               <h5 class="mb-2  font-KeplerStd flex justify-center text-2xl font-bold tracking-tight text-gray-900">

@@ -123,35 +123,7 @@ export default function Navbar() {
             PRICING
           </NavLink>
         </li>
-        {/* defining chat route */}
-        {/* {!user?.role || user?.role!== 'admin'? (<>
-          <li className="hover:scale-105">
-          <NavLink
-            to="/chat"
-            className={({ isActive }) =>
-              ` ${
-                isActive ? "text-[#D5A021]" : "text-white"
-              }  md:mx-[27px] cursor-pointer hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-[#D5A021] duration-300 ease-in-out`
-            }
-          >
-            ChatWith-Us
-          </NavLink>
-        </li>
-        </>):(<>
-          <li className="hover:scale-105">
-          <NavLink
-            to="/admin-dashboard"
-            className={({ isActive }) =>
-              ` ${
-                isActive ? "text-[#D5A021]" : "text-white"
-              }  md:mx-[27px] cursor-pointer hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-[#D5A021] duration-300 ease-in-out`
-            }
-          >
-            Admin-Dashboard
-          </NavLink>
-        </li>
-        </>)} */}
-{/* ending here */}
+        
         <li className="hover:scale-105">
           <NavLink
             to="/plans"
@@ -283,18 +255,7 @@ export default function Navbar() {
                     </NavLink>
                   </li>
                   {!user?.role || user?.role!== 'admin'? (<>
-          {/* <li className="hover:scale-105">
-          <NavLink
-            to="/chat"
-            className={({ isActive }) =>
-              ` ${
-                isActive ? "text-[#D5A021]" : "text-white"
-              }  md:mx-[27px] cursor-pointer hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-[#D5A021] duration-300 ease-in-out`
-            }
-          >
-            ChatWith-Us
-          </NavLink>
-        </li> */}
+          
         </>):(<>
           <li className="hover:scale-105">
           <NavLink
@@ -323,19 +284,7 @@ export default function Navbar() {
           )}
           
           {user ? 
-          // (
-          //   <div
-          //   className="md:mx-[27px] flex cursor-pointer hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-[#D5A021] duration-300 ease-in-out"
-          //   >
-          //   <p
-          //     className=""
-          //     onClick={() => {
-          //       logout({ returnTo: window.location.origin });
-          //     }}
-          //   >
-          //     Logout
-          //   </p></div>
-          // )
+          
           null
            : (<div 
             // className="text-white cursor-pointer font-medium hover:text-[#D5A021] ease-in-out duration-500 hover:scale-105"
@@ -388,22 +337,7 @@ export default function Navbar() {
           </div>
 
           <div className="px-4 py-6">
-            {/* <span className="grid h-10 w-32 place-content-center rounded-lg bg-gray-800 text-xs text-gray-600">
-      Logo
-    </span> */}
-            {/* <li className=" border-gray-400 my-8 uppercase ">
-              <NavLink
-                to=""
-                className={({ isActive }) =>
-                  ` ${
-                    isActive ? "text-[#D5A021]" : "text-white"
-                  } hover:text-[#D5A021] ease-in-out duration-500 cursor-pointer underline`
-                }
-                onClick={() => handleCloseMenu()}
-              >
-                HOME
-              </NavLink>
-            </li> */}
+            
 
             <ul
               className="mt-6 space-y-1"
@@ -439,30 +373,7 @@ export default function Navbar() {
               </li>
               
 
-              {/* {!user?.role || user?.role!== 'admin'? (<>
-                <li className="my-4">
-        <NavLink
-          to="/chat"
-          className="text-white text-s"
-          onClick={handleCloseMenu}
-          style={{marginLeft:"1rem"}}
-        >
-          ChatWith-Us
-        </NavLink>
-      </li>
-              </>):(<>
               
-                <li className="my-4">
-        <NavLink
-          to="/admin-dashboard"
-          className="text-white text-s"
-          onClick={handleCloseMenu}
-          style={{marginLeft:"1rem"}}
-        >
-          Admin Dashboard
-        </NavLink>
-      </li>
-              </>)} */}
              
               <li>
                 <NavLink
@@ -613,147 +524,7 @@ export default function Navbar() {
             </div>
           ) : null}
         </div>
-        {/* { user ?
-      <div>
-      <div className='text-white flex items-center pt-2 mr-2'>
-        <button type="button" className="flex text-sm bg-gray-800 rounded-full md:me-0 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600 ">
-        <img className="w-8 h-8 rounded-full" 
-        //src={user.img} once evrthng is dne ill come bck here
-        src="/public/img/img4.jpg"
-         alt="user photo"/>
-          </button>
-          <div className="z-50 hidden my-4 text-base list-none bg-white divide-y divide-gray-100 rounded-lg shadow dark:bg-gray-700 dark:divide-gray-600" id="user-dropdown">
-        <div className="px-4 py-3">
-          <span className="block text-sm text-gray-900 dark:text-white">Bonnie Green</span>
-          <span className="block text-sm  text-gray-500 truncate dark:text-gray-400">name@flowbite.com</span>
-        </div>
-        <ul className="py-2" aria-labelledby="user-menu-button">
-          <li>
-            <a href="#" className="block px-4 py-2 text-sm text-white hover:bg-gray-800 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Dashboard</a>
-          </li>
-          <li>
-            <a href="#" className="block px-4 py-2 text-sm text-white hover:bg-gray-800 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Settings</a>
-          </li>
-          <li>
-            <a href="#" className="block px-4 py-2 text-sm text-white hover:bg-gray-800 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Earnings</a>
-          </li>
-          <li>
-            <a href="#" className="block px-4 py-2 text-sm text-white hover:bg-gray-800 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Sign out</a>
-          </li>
-        </ul>
-      </div>
-      </div>
-        </div>:
-      <div className='text-white flex items-center'>
-        <button
-        className='bg-[#D5A021] px-4 py-1.5 rounded font-semibold'
-        onClick={() => loginWithRedirect()}>Sign In</button>
         
-        </div>
-        }
-
-        <div
-          className="HAMBURGER-ICON space-y-2 p-3 cursor-pointer "
-          onClick={() => setIsNavOpen((prev) => !prev)}
-        >
-          <span className="block h-0.5 w-8  bg-gray-600"></span>
-          <span className="block h-0.5 w-8  bg-gray-600"></span>
-          <span className="block h-0.5 w-8  bg-gray-600"></span>
-        </div>
-
-        <div className={`${isNavOpen ? "showMenuNav" : "hideMenuNav"} `}>
-          <div
-            className="absolute top-0 right-0 px-8 py-8"
-            onClick={() => setIsNavOpen(false)}
-          >
-            <svg
-              className="h-8 w-8 text-white cursor-pointer "
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            >
-              <line x1="18" y1="6" x2="6" y2="18" />
-              <line x1="6" y1="6" x2="18" y2="18" />
-            </svg>
-          </div>
-              
-          
-
-          <ul
-            className="flex flex-col items-center justify-between min-h-[250px]"
-            onStateChange={handleStateChange}
-            isOpen={isNavOpen}
-          >
-            <li className=" border-gray-400 my-8 uppercase ">
-              <NavLink
-                to=""
-                className={({ isActive }) =>
-                  ` ${
-                    isActive ? "text-[#D5A021]" : "text-white"
-                  } hover:text-[#D5A021] ease-in-out duration-500 cursor-pointer underline`
-                }
-                onClick={() => handleCloseMenu()}
-              >
-                HOME
-              </NavLink>
-            </li>
-            <li className=" border-gray-400 my-8 uppercase ">
-              <NavLink
-                className={({ isActive }) =>
-                  ` ${
-                    isActive ? "text-[#D5A021]" : "text-white"
-                  } hover:text-[#D5A021] ease-in-out duration-500 cursor-pointer underline`
-                }
-                to="/services"
-                onClick={() => handleCloseMenu()}
-              >
-                SERVICES
-              </NavLink>
-            </li>
-            <li className=" border-gray-400 my-8 uppercase ">
-              <NavLink
-                onClick={() => handleCloseMenu()}
-                className={({ isActive }) =>
-                  ` ${
-                    isActive ? "text-[#D5A021]" : "text-white"
-                  } hover:text-[#D5A021] ease-in-out duration-500 cursor-pointer underline`
-                }
-                to="/pricing"
-              >
-                PRICING
-              </NavLink>
-            </li>
-            <li className=" border-gray-400 my-8 uppercase ">
-              <NavLink
-                onClick={() => handleCloseMenu()}
-                className={({ isActive }) =>
-                  ` ${
-                    isActive ? "text-[#D5A021]" : "text-white"
-                  } hover:text-[#D5A021] ease-in-out duration-500 cursor-pointer underline `
-                }
-                to="/plans"
-              >
-                PLANS
-              </NavLink>
-            </li>
-            <li className=" border-gray-400 my-8 uppercase ">
-              <NavLink
-                onClick={() => handleCloseMenu()}
-                className={({ isActive }) =>
-                  ` ${
-                    isActive ? "text-[#D5A021]" : "text-white"
-                  } hover:text-[#D5A021] ease-in-out duration-500 cursor-pointer underline`
-                }
-                to="/areas"
-              >
-                SERVICE AREAS
-              </NavLink>
-            </li>
-          </ul>
-        </div> */}
       </section>
 
       <style>{`
