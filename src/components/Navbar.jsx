@@ -52,7 +52,7 @@ export default function Navbar() {
       to="">
       <div className="px-[20px]   text-3xl cursor-pointer   font-semibold font-sans">
         
-        <img className=" w-32  h-auto" src="/public/img/logo 2.svg" alt="" />
+        <img className=" w-32  h-auto" src="/static/img/logo 2.svg" alt="" />
       </div></NavLink>
       <ul className="lg:text-lg lg:flex hidden  ">
         <li className="hover:scale-105 ">
