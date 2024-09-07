@@ -48,7 +48,7 @@ function Servicesland() {
       </div>
       <div className=" max-w-sm mb-6  border border-gray-200  shadow bg-white hover:scale-105 duration-300 rounded-xl">
         <NavLink to="/monthly">
-          <img className="rounded-xl" src="/static/img/img7.jpg" alt="" />
+          <img className="rounded-xl" src="/static/img/img5.jpg" alt="" />
         </NavLink>
         <div className="p-5">
           <NavLink to="/monthly">
