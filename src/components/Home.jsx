@@ -80,7 +80,7 @@ function Home() {
           <div className="  pt-10 pb-20 flex items-center ">
             <img
               className="h-20 rounded-full w-20 "
-              src="/static/img/img4.png"
+              src="/static/img/img4 (2).jpg"
               alt=""
               srcset=""
             />
